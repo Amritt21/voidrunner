@@ -1,0 +1,6 @@
+{
+  "name": "VOIDRUNNER",
+  "description": "High-octane top-down sci-fi action roguelite browser game with responsive combat, procedural waves, deep upgrade drafting, and multi-phase boss encounters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
